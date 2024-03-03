@@ -14,3 +14,4 @@ configuration: Static Library compilation is done separately from Application.
 Compiler: G++.
 Use Makefile for compilation/linking instructions.
 
+ 
